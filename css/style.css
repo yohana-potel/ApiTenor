@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(155, 99, 207);
+    font-family: 'Roboto Mono', monospace;
+    
+}
+.resultados {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 10px;
+    column-gap: 5px;
+    margin-top: 10px;
+}
+
+/* Cambia el tamaño */
+
+.resultados img {
+    width: 200px; 
+    height: 200px; 
+   
+}
