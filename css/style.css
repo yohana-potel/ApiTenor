@@ -5,7 +5,8 @@ body{
 }
 .resultados {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 3fr);
+    padding: 10px;
     row-gap: 10px;
     column-gap: 5px;
     margin-top: 10px;
@@ -14,7 +15,10 @@ body{
 /* Cambia el tamaño */
 
 .resultados img {
-    width: 200px; 
-    height: 200px; 
-   
+     
+    display: grid;
+    row-gap: 15px;
+    column-gap: 5px;
+    width: 300px; 
+    height: 150px;
 }
