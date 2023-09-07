@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(155, 99, 207);
+    background-color:#ff9966;
     font-family: 'Roboto Mono', monospace;
     
 }
@@ -17,5 +17,5 @@ body{
 .resultados img {
       
     width: 300px; 
-    height: 150px;
+    height: 200px;
 }
