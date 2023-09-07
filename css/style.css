@@ -15,10 +15,7 @@ body{
 /* Cambia el tamaño */
 
 .resultados img {
-     
-    display: grid;
-    row-gap: 15px;
-    column-gap: 5px;
+      
     width: 300px; 
     height: 150px;
 }
